@@ -5,7 +5,7 @@ public class Vehicle {
 
 
     void go(){
-        System.out.println("The vehicle is moving");
+        System.out.println("The vehicle is moving.");
     }
 
     void stop(){

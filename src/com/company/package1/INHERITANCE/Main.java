@@ -27,8 +27,9 @@ public class Main{
 
        Bicycle bike = new Bicycle();
        bike.stop(); 
+
        System.out.println(car.speed); 
-       System.out.println(car.door); 
+       System.out.println(car.doors); 
        System.out.println(car.sits); 
        System.out.println(car.wheels); 
        System.out.println(bike.sits); 
